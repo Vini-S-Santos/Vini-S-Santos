@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/Vini-S-Santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini-S-Santos&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-S-Santos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-S-Santos&layout=compact&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
