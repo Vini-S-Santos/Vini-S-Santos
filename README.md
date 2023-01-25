@@ -1,8 +1,8 @@
 ## Olá meu nome é Vinicius Souza, sou Web Developer Front-End
 <div align="center">
   <a href="https://github.com/Vini-S-Santos">
-   <img height="180em" weight="80em" src="https://github-readme-stats.vercel.app/api?username=Vini-S-Santos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" weight="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-S-Santos&layout=compact&theme=merko"/>     
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini-S-Santos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-S-Santos&layout=compact&theme=merko"/>     
 </div>
 <div style="display: inline_block"><br>
   <h4>Principais tecnologias que uso no dia a dia</h4> 
