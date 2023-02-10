@@ -1,4 +1,4 @@
-## Olá meu nome é Vinicius Souza, sou Web Developer Front-End
+## Olá meu nome é Vinicius Souza, sou Web Developer FullStack.
 <div align="center">
   <a href="https://github.com/Vini-S-Santos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini-S-Santos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
